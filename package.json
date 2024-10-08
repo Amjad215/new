@@ -1,0 +1,20 @@
+{
+  "name": "package-amjad",
+  "version": "1.0.0",
+  "description": "Amjad",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",  
+    "test": "amjad"
+  },
+  "repository": {
+    "type": "git",
+    "url": "just"
+  },
+  "keywords": [
+    "700"
+  ],
+  "author": "Amjad",
+  "license": "UNLICENSED"
+}
+
